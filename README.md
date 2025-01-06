@@ -26,3 +26,15 @@ Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı 
 <p>PostgreSQL'de bir veritabanı oluşturun ve bağlantı dizesini appsettings.json dosyasında güncelleyin:</p>
 
 #### "ConnectionStrings": {"PostgreServer": "Server=localhost; Port=PORT;Database=DbName;UserId=postgres; Password=PASSWORD"}
+### 3. Migration ve Veritabanı Güncelleme
+dotnet run
+### 4. API’yi Başlatın
+dotnet run
+
+## Frontend (Client) Çalıştırma
+#### 1.Bağımlılıkları Yükleyin
+Projenin client klasörüne gidin ve aşağıdaki komutu çalıştırın:
+<p>npm install</p>
+
+#### 2. Angular Uygulamasını Başlatın
+ng serve
