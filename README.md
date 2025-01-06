@@ -13,8 +13,8 @@ Doktor randevusu oluşturabilir.
 # Doktor İşlemleri:
 Doktorlar randevu takvimlerini görüntüleyebilir.
 ## Kullanılan Teknolojiler
-<p>Frontend: Angular
-<p>Backend: .NET Core
-<p>Veritabanı: PostgreSQL
+Frontend: Angular
+Backend: .NET Core
+Veritabanı: PostgreSQL
 # Projenin Çalıştırılması
 Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı klasörden oluşmaktadır.
