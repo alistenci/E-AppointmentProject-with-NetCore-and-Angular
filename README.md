@@ -25,6 +25,4 @@ Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı 
 ### 2.Veritabanını Ayarlayın
 <p>PostgreSQL'de bir veritabanı oluşturun ve bağlantı dizesini appsettings.json dosyasında güncelleyin:</p>
 
-#### "ConnectionStrings": {
-  "PostgreServer": "Server=localhost; Port=PORT;Database=DbName;UserId=postgres; Password=PASSWORD"
-}
+#### "ConnectionStrings": {"PostgreServer": "Server=localhost; Port=PORT;Database=DbName;UserId=postgres; Password=PASSWORD"}
