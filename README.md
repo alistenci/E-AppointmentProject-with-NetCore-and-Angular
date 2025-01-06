@@ -19,11 +19,12 @@ Doktorlar randevu takvimlerini görüntüleyebilir.
 
 # Projenin Çalıştırılması
 Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı klasörden oluşmaktadır.
-#### 1.Projenin server klasörüne gidin ve aşağıdaki komutu çalıştırın:
+### 1.Projenin server klasörüne gidin ve aşağıdaki komutu çalıştırın:
 <li>dotnet restore</li>
   
-#### 2.Veritabanını Ayarlayın
+### 2.Veritabanını Ayarlayın
 <p>PostgreSQL'de bir veritabanı oluşturun ve bağlantı dizesini appsettings.json dosyasında güncelleyin:</p>
-"ConnectionStrings": {
+
+#### "ConnectionStrings": {
   "PostgreServer": "Server=localhost; Port=PORT;Database=DbName;UserId=postgres; Password=PASSWORD"
 }
