@@ -22,7 +22,7 @@ Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı 
 <p>1.Projenin server klasörüne gidin ve aşağıdaki komutu çalıştırın:
 <li>dotnet restore</li>
   
-## <p>2.Veritabanını Ayarlayın
+## 2.Veritabanını Ayarlayın
 <p>PostgreSQL'de bir veritabanı oluşturun ve bağlantı dizesini appsettings.json dosyasında güncelleyin:</p>
 "ConnectionStrings": {
   "PostgreServer": "Server=localhost; Port=PORT;Database=DbName;UserId=postgres; Password=PASSWORD"
