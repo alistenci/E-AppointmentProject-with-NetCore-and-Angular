@@ -1,0 +1,135 @@
+body{
+    background-color: #f1e6e313;
+    }
+    
+    
+    .kapsayici{
+        width: 800px;
+        height: 600px;
+    }
+    
+    .rsm1{
+        height: 100%;
+        width: 40%;
+        border-radius: 10px;
+    }
+    
+    .denemekutu{
+        height: 100%;
+        width: 100%;
+    }
+    .hr-border{
+        width: 70%;
+        margin: auto;
+    }
+    
+    .fc{
+        height: 50px;
+        width: 90%;
+    }
+    
+    .form-buton{
+        background: linear-gradient(to left, #ec7a7e, #e99981);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        transition: background 0.3s ease;
+    }
+    
+    .form-buton:hover{
+        background: linear-gradient(to left, #e99981, #ec7a7e);
+    }
+    
+    .hr1{
+        width:216px;
+    }
+    
+    .mx{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    
+    
+    
+    
+    
+    
+    /* ----------------------------- Modal ------------------------------------------*/
+    .modal-body{
+        padding: 0;
+    }
+    
+    .modal-footer {
+        border: none;
+      }
+    
+      .modal-w{
+        margin-top: 164px;
+    }
+    
+    
+    .rsm2{
+        height: 600px;
+        width: 350px;
+        border-radius: 5px;
+    }
+    
+    .modal-icerik{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .modal-input{
+        width: 300px;
+    }
+    
+    .fc1{
+        width: 100%;
+        height: 40px;
+    }
+    
+    .modal-input1{
+        width: 40%;
+        height: 50px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    .modal-form1{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .form-buton1{
+        width: 87%;
+        background: linear-gradient(to left, #ec7a7e, #e99981);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        transition: background 0.3s ease;
+    }
+    .form-buton1:hover{
+        background: linear-gradient(to left, #e99981, #ec7a7e);
+    }
+    .modal-title{
+        margin-left: 20px;
+    }
+    .form-check{
+        position: absolute;
+        left: 255px;
+    }
+    .check-1{
+        width: 20px;
+        height: 20px;
+        margin-right: 0px;
+    }
+    .form-buton2{
+        margin-top: 80px;
+    }
+    
+    .kullanimSartModal{
+        padding: 40px 40px 0px 40px;
+    }
