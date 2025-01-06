@@ -38,3 +38,9 @@ Projenin client klasörüne gidin ve aşağıdaki komutu çalıştırın:
 
 #### 2. Angular Uygulamasını Başlatın
 ng serve
+
+## Kullanıcı Girişi
+Sisteme giriş yapmak için başlangıçta admin bilgilerini kullanabilirsiniz:
+
+#### <li>Kullanıcı Adı: admin
+#### <li>Şifre: 12
