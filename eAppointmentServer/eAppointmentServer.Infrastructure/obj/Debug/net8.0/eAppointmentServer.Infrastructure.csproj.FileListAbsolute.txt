@@ -1,0 +1,38 @@
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.deps.json
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.runtimeconfig.json
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.AssemblyInfo.cs
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppoint.FD94C6F2.Up2Date
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\refint\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.genruntimeconfig.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\ref\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.deps.json
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.runtimeconfig.json
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Infrastructure.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.AssemblyInfo.cs
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppoint.FD94C6F2.Up2Date
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\refint\eAppointmentServer.Infrastructure.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\eAppointmentServer.Infrastructure.genruntimeconfig.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Infrastructure\obj\Debug\net8.0\ref\eAppointmentServer.Infrastructure.dll

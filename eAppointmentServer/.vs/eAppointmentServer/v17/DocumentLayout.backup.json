@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E9E11A-D3C9-41FE-857A-818A51A58BA3}|eAppointmentServer.Infrastructure\\eAppointmentServer.Infrastructure.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E9E11A-D3C9-41FE-857A-818A51A58BA3}|eAppointmentServer.Infrastructure\\eAppointmentServer.Infrastructure.csproj|solutionrelative:eappointmentserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A29B1C-B841-477F-B0C0-90B428951C80}|eAppointmentServer.WebAPI\\eAppointmentServer.WebAPI.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A29B1C-B841-477F-B0C0-90B428951C80}|eAppointmentServer.WebAPI\\eAppointmentServer.WebAPI.csproj|solutionrelative:eappointmentserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\appointments\\updateappointment\\updateappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\appointments\\updateappointment\\updateappointmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\doctors\\updatedoctor\\updatedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\doctors\\updatedoctor\\updatedoctorcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\doctors\\updatedoctor\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\doctors\\updatedoctor\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\patients\\updatepatient\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\patients\\updatepatient\\updatepatientcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\updateuser\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\createuser\\creatusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\createuser\\creatusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|c:\\users\\alist\\desktop\\creational design patterns e\u011Fitimleri\\eappointment\\eappointmentserver\\eappointmentserver.application\\features\\users\\getallusers\\getallusersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F863C5B8-75E7-4634-97A3-5DCBF1C3A2C9}|eAppointmentServer.Application\\eAppointmentServer.Application.csproj|solutionrelative:eappointmentserver.application\\features\\users\\getallusers\\getallusersqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "eAppointmentServer.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:37:55.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "eAppointmentServer.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:36:15.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateAppointmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Appointments\\UpdateAppointment\\UpdateAppointmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Appointments\\UpdateAppointment\\UpdateAppointmentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Appointments\\UpdateAppointment\\UpdateAppointmentCommandHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Appointments\\UpdateAppointment\\UpdateAppointmentCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:20:52.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateDoctorCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:19:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Doctors\\UpdateDoctor\\UpdateDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:19:12.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePatientCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Patients\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Patients\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Patients\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Patients\\UpdatePatient\\UpdatePatientCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:18:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\UpdateUser\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:18:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:04:25.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:04:21.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:46:56.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreatUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreatUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreatUserCommandHandler.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\CreateUser\\CreatUserCommandHandler.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:46:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllUsersQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "RelativeDocumentMoniker": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "ToolTip": "C:\\Users\\alist\\Desktop\\Creational Design Patterns E\u011Fitimleri\\eAppointment\\eAppointmentServer\\eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "RelativeToolTip": "eAppointmentServer.Application\\Features\\Users\\GetAllUsers\\GetAllUsersQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:45:49.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

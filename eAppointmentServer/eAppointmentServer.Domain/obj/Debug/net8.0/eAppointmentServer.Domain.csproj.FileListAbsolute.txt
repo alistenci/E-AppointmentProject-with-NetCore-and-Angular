@@ -1,0 +1,24 @@
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.deps.json
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.AssemblyReference.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfoInputs.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfo.cs
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\refint\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\ref\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.deps.json
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.AssemblyReference.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfoInputs.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.AssemblyInfo.cs
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\refint\eAppointmentServer.Domain.dll
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\alist\Desktop\Creational Design Patterns Eğitimleri\eAppointment\eAppointmentServer\eAppointmentServer.Domain\obj\Debug\net8.0\ref\eAppointmentServer.Domain.dll
