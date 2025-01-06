@@ -5,8 +5,8 @@ e-Appointment, Angular, .NET ve PostgreSQL kullanılarak geliştirilmiş bir ele
 ### Admin Paneli:
 Kullanıcı, doktor ve personel ekleme.
 ### Sisteme ilk giriş için gerekli admin bilgileri:
-#### Kullanıcı Adı: admin
-#### Şifre: 12
+#### <li>Kullanıcı Adı: admin
+#### <li>Şifre: 12
 ## Kullanıcı İşlemleri:
 Kullanıcılar sisteme kayıt olabilir ve giriş yapabilir.
 Doktor randevusu oluşturabilir.
@@ -16,5 +16,6 @@ Doktorlar randevu takvimlerini görüntüleyebilir.
 <li>Frontend: Angular</li>
 <li>Backend: .NET Core</li>
 <li>Veritabanı: PostgreSQL</li>
+
 # Projenin Çalıştırılması
 Proje, client (Angular uygulaması) ve server (.NET API) olmak üzere iki ayrı klasörden oluşmaktadır.
